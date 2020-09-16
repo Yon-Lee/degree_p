@@ -1,0 +1,33 @@
+name: degree_p
+description: Nueva aplicación de flutter proyecto de grado ESPECIALIZACIÓN SENA
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  decimal: ^0.3.0
+  cupertino_icons: ^0.1.3
+  flutter:
+    sdk: flutter
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/img/imc.png
+     - assets/img/imcx.png
+     - assets/img/Intro.jpeg
+     - assets/img/scale.jpg
+     - assets/img/crunch invertido.jpg
+     - img/dominadas agarre prono.JPG
+
+
